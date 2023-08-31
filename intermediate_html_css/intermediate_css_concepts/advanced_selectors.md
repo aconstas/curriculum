@@ -1,6 +1,6 @@
 ### Introduction
 
-By now you should be comfortable with basic CSS selectors and have no trouble grabbing things by their type, class or ID. But to be a real CSS surgeon, sometimes you need more specialized tools. In this lesson we'll look at advanced CSS selectors and show you how to target elements in a more specific and finely grained way.
+By now you should be comfortable with basic CSS selectors and have no trouble grabbing things by their type, class, or ID. But to be a real CSS surgeon, sometimes you need more specialized tools. In this lesson, we'll look at advanced CSS selectors and show you how to target elements in a more specific and finely grained way.
 
 These selectors can be especially useful when you can't (or don't want to) change your HTML markup.
 
@@ -11,8 +11,8 @@ As always feel free to open up your code editor and run your own experiments wit
 ### Learning outcomes
 
 * Understand how to use parent and sibling selectors
-* Recognize the difference between pseudo classes and pseudo elements
-* Learn about some of the most useful and common pseudo elements and pseudo classes
+* Recognize the difference between pseudo-classes and pseudo-elements
+* Learn about some of the most useful and common pseudo-elements and pseudo-classes
 * Learn about the different ways to select an attribute or its parts
 
 ### Child and sibling combinators
